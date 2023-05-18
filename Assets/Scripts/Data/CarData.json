@@ -1,0 +1,20 @@
+{
+    "objectData": [
+        {
+            "name": "VW Beetle",
+            "value": 12000
+        },
+        {
+            "name": "VW Van",
+            "value": 10000
+        },
+        {
+            "name": "Jeep",
+            "value": 25000
+        },
+        {
+            "name": "Nissan",
+            "value": 30000
+        }
+    ]
+}
